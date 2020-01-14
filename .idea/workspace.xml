@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a1fe503-37f9-4d21-9954-d7735fc4f18a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="eccf3f6c-37c9-4ebd-a8a9-53965b9cb6f3" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="qsGrlmha" />
+  </component>
+  <component name="ProjectId" id="1WK3TcRgXfsnBvB0a9TNysq0WEl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PycharmProjects\Hello-Tensorflow-2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Hello-Tensorflow-2" type="PythonConfigurationType" factoryName="Python">
+      <module name="Hello-Tensorflow-2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\PycharmProjects\Hello-Tensorflow-2\fashioin_mnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Hello-Tensorflow-2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a1fe503-37f9-4d21-9954-d7735fc4f18a" name="Default Changelist" comment="" />
+      <created>1578884467265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578884467265</updated>
+      <workItem from="1578884468675" duration="2754000" />
+      <workItem from="1578887261482" duration="108000" />
+      <workItem from="1578887380073" duration="11955000" />
+      <workItem from="1578903677759" duration="81000" />
+      <workItem from="1578903773367" duration="5781000" />
+      <workItem from="1578909723506" duration="6195000" />
+      <workItem from="1578979364339" duration="13041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1180" y="266" key="FileChooserDialogImpl" timestamp="1578897807738">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1180" y="266" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1578897807738" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1578885128368">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578885128368" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1578885128367">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578885128367" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1578885128367">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578885128367" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1578885128367">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578885128367" />
+    <state x="-1457" y="119" key="SettingsEditor" timestamp="1578903756479">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1457" y="119" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1578903756479" />
+    <state x="463" y="119" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578887361659" />
+    <state x="-1205" y="369" key="cloudConfig.PluginsDialog" timestamp="1578903620164">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1205" y="369" key="cloudConfig.PluginsDialog/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1578903620163" />
+    <state x="715" y="369" key="cloudConfig.PluginsDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578891843535" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1578908907050">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="622" height="553" key="javadoc.popup.new" timestamp="1578995004400">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="622" height="553" key="javadoc.popup.new/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1578995004400" />
+    <state width="857" height="500" key="javadoc.popup.new/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578887827357" />
+    <state width="600" height="424" key="javadoc.popup/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1578908907050" />
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1578904672629">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1578904672629" />
+  </component>
+</project>
